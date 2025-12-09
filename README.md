@@ -13,6 +13,10 @@ I’m Sivagami R, a passionate Computer Science Engineering student at KIT – K
 ![](https://nirzak-streak-stats.vercel.app/?user=Sivi-21&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivi-21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivi-21&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
