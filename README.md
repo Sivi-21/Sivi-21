@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=SIVAGAMI%20R" alt="banner"/>
-# 💫 About Me:
+💫 About Me:<br>
 I’m Sivagami R, a passionate Computer Science Engineering student at KIT – Kalaignarkarunanidhi Institute of Technology. I have a keen interest in problem-solving, coding, and emerging technologies. I am actively enhancing my skills through platforms like Infosys Springboard and Coursera. I enjoy design, and I consistently follow global developments in technology and current affairs. I’m enthusiastic about gaining real-world experience and contributing to innovative projects that create a meaningful impact.
 
 
